@@ -1,0 +1,15 @@
+Targa - Char(7) - Primary Key - NOTNULL,UNIQUE,AUTOINCREMENT
+Model(name) - VarChar(100) - NOTNULL 
+CompanyProduct - VarChar(50) - NOTNULL 
+StyleAuto - VarChar(50) - NOTNULL 
+Horsepower engine - TINYINT - NOTNULL
+Displacement engine - SMALLINT - NOTNULL
+Weight - SMALLINT - NOTNULL 
+Year matriculation - Year - NOTNULL
+Price - SMALLINT - NOTNULL
+Cost - SMALLINT - NOTNULL
+Fuel - Char(1) - NOTNULL
+Km -SMALLINT - NOTNULL 
+Description - TEXT - NULL
+
+
